@@ -21,5 +21,11 @@
 			</array>
 		</dict>
 	</dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Vamos tentar usar a localização para tentar preencher o endereço</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Esse aplicativo deseja tirar fotos</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Esse aplicativo deseja usar suas fotos</string>
 </dict>
 </plist>
